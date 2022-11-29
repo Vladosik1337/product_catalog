@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/my-app/static/js/main.2f608f9b.js",
-    "index.html": "/my-app/index.html",
-    "main.2f608f9b.js.map": "/my-app/static/js/main.2f608f9b.js.map"
+    "main.js": "/product_catalog/static/js/main.2f608f9b.js",
+    "index.html": "/product_catalog/index.html",
+    "main.2f608f9b.js.map": "/product_catalog/static/js/main.2f608f9b.js.map"
   },
   "entrypoints": [
     "static/js/main.2f608f9b.js"
